@@ -67,10 +67,10 @@ body {
 
 .navbar a {
     position: relative;
-    font-size: 1.7rem;
+    font-size: 1.4rem;
     color: var(--white-color);
     font-weight: 500;
-    margin-right: 3.5rem;
+    margin-right: 3rem;
 }
 
 .header.sticky .navbar a {
@@ -258,7 +258,7 @@ section {
 }
 
 .home .profession i {
-    font-size: 3.8rem;
+    font-size: 3.4rem;
 }
 
 .home .profession h3 {
@@ -335,7 +335,7 @@ span {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 40px;
+    gap: 50px;
     padding-bottom: 20px;
 }
 
@@ -347,7 +347,7 @@ span {
     opacity: 50%;
     &:hover {
         cursor: pointer;
-        transform: scale(1.1);
+        transform: scale(1.05);
         opacity: 100%;
     }
 }
