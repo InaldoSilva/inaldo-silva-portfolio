@@ -16,6 +16,7 @@
     --text-color: #333;
     --main-color: #754ef9;
     --white-color: #fdfdfd;
+    --gradient-color: linear-gradient(90deg, rgba(22, 141, 143, 1) 0%, rgba(117, 78, 249, 1) 35%, rgba(14, 3, 3, 1) 100%);;
     --shadow-color: rgba(0, 0, 0, .2);
 }
 
